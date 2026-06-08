@@ -1,3 +1,3 @@
-# Ferniegram
+# YAST Client
 
-Ferniegram is a work-in-progress fork of Fernschreiber.
+YAST Client is a yet another SailfishOS Telegram client. It is still work-in-progress.
